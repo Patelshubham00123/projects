@@ -1,0 +1,20 @@
+{
+  "name": "kesariya-ghee-app",
+  "version": "1.0.0",
+  "description": "Kesariya Farm A2 Vedic Ghee E-Commerce Landing Page & Purchasing Workflow",
+  "main": "index.html",
+  "scripts": {
+    "start": "powershell -ExecutionPolicy Bypass -File serve.ps1",
+    "dev": "powershell -ExecutionPolicy Bypass -File serve.ps1",
+    "serve": "npx -y serve -p 3000"
+  },
+  "keywords": [
+    "kesariya-farm",
+    "a2-vedic-ghee",
+    "e-commerce",
+    "bilona-ghee",
+    "ayurveda"
+  ],
+  "author": "Patelshubham00123",
+  "license": "MIT"
+}
